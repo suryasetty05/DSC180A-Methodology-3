@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Surya Setty
-ssetty@ucsd.edu
+Surya Setty and Uday Lingampalli
